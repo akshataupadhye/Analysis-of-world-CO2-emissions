@@ -1,4 +1,4 @@
-# Analysis of world CO2 emissions :  A Data Visualization project
+# Analysis of world CO2 emissions :  A Data Visualization project to manifest the power of data visualization in the process of understanding and exploring data.
 
 ![CO2 Emissions Data Viz](https://raw.githubusercontent.com/akshataupadhye/Analysis-of-world-CO2-emissions/main/dashboard/Dashboard%201.png)
 

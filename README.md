@@ -4,7 +4,7 @@
 
 ## About the project
 
-•	This is a Data Visualization project to manifest the power of data visualization in the process of understanding and exploring data.
+•	This is a Data Visualization project to manifest the ✨ power of data visualization in the process of understanding and exploring data.
 
 •	This project showcases lucid visualizations in Tableau to analyze 6.5 million records to unlock insights about the increasing CO2 emissions over the past centuries leading to the global warming in order to create awareness among the people.
 

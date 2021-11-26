@@ -1,8 +1,10 @@
-# Analysis of world CO2 emissions :  A Data Visualization project to manifest the power of data visualization in the process of understanding and exploring data.
+# Analysis of world CO2 emissions :  A Data Visualization project.
 
 ![CO2 Emissions Data Viz](https://raw.githubusercontent.com/akshataupadhye/Analysis-of-world-CO2-emissions/main/dashboard/Dashboard%201.png)
 
 ## About the project
+
+•	This is a Data Visualization project to manifest the power of data visualization in the process of understanding and exploring data.
 
 •	This project showcases lucid visualizations in Tableau to analyze 6.5 million records to unlock insights about the increasing CO2 emissions over the past centuries leading to the global warming in order to create awareness among the people.
 
